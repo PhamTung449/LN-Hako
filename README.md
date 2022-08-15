@@ -3,4 +3,4 @@
 
 Bản mới nhất: [Đây](https://github.com/PhamTung449/LN-Hako/releases)
 
-Lưu ý : được làm với kinh nghiệm app android bằng không và tự mày mò trên mạng để làm (đừng hỏi vì sao app chuối :v)
+Lưu ý : Dev với kinh nghiệm làm app android bằng không và hoàn thành ứng dụng qua việc tra cứu mạng (đừng hỏi vì sao app chuối :v)
