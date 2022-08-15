@@ -1,4 +1,4 @@
 # LN Hako
-App build in Android Studio and works according to WebView
+Ứng dụng được xây dựng trên Android Studio và hoạt thộng theo phương thức WebView
 
-Latest Release: [Here](https://github.com/PhamTung449/LN-Hako/releases)
+Bản mới nhất: [Đây](https://github.com/PhamTung449/LN-Hako/releases)
