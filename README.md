@@ -11,7 +11,7 @@ Note: Dev with zero android app making experience and complete the app via netwo
 
 ________________________________________
 
-*Tiếng việt* :
+*Tiếng Việt* :
 Ứng dụng được xây dựng trên Android Studio và hoạt thộng theo phương thức WebView (ln.hako.vn)
 
 Bản mới nhất: [Đây](https://github.com/PhamTung449/LN-Hako-App-Android/releases)
