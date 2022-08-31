@@ -1,4 +1,4 @@
-# LN Hako App Android - Ứng dụng đọc light novel trên ln.hako.vn
+# LN Hako App Android - Ứng dụng đọc light novel trên ln.hako.vn (Tạm ngưng phát triển)
 
 *English* :
 The application has been built on Android Studio and works extensively under the WebView method (ln.hako.vn) 
