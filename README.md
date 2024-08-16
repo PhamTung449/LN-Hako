@@ -3,6 +3,8 @@
 *English* :
 The application has been built on Android Studio and works extensively under the WebView method (ln.hako.vn) 
 
+If LN Hako does not allow this application to operate, please contact: famukonkiri@gmail.com
+
 NOTIFICATION : I continued the project long after I stopped development
 
 !Note: I have rewritten this application with a new project, maybe it will have some problems when updating from the old one. If anyone has installed the old version (from 1.3 or earlier), please uninstall it and install the new versions.
@@ -18,6 +20,8 @@ ________________________________________
 
 *Tiếng Việt* :
 Ứng dụng được xây dựng trên Android Studio và hoạt thộng theo phương thức WebView (ln.hako.vn)
+
+Nếu LN Hako không cho phép ứng dụng này hoạt động , vui lòng liên hệ : famukonkiri@gmail.com
 
 THÔNG BÁO : Tôi đã tiếp tục dự án này sau một thời gian dài tôi ngừng phát triển dự án
 
