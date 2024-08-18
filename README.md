@@ -21,7 +21,7 @@ ________________________________________
 *Tiếng Việt* :
 Ứng dụng được xây dựng trên Android Studio và hoạt thộng theo phương thức WebView (ln.hako.vn)
 
-Nếu LN Hako không cho phép ứng dụng này hoạt động , vui lòng liên hệ : famukonkiri@gmail.com
+Nếu LN Hako không cho phép ứng dụng này hoạt động , vui lòng liên hệ: famukonkiri@gmail.com
 
 THÔNG BÁO : Tôi đã tiếp tục dự án này sau một thời gian dài tôi ngừng phát triển dự án
 
