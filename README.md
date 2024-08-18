@@ -15,7 +15,7 @@ Code source will be updated when it is official: v2.0 (expected)
 
 Note: Dev with zero android app making experience and complete the app via network lookup
 
-Almost the application can be used well in the latest version : v1.4-beta
+Almost the application can be used well in the latest version : v1.5-beta
 ________________________________________
 
 *Tiếng Việt* :
@@ -33,4 +33,4 @@ Mã nguồn sẽ được cập nhật khi lên bản chính thức : v2.0 (dự
 
 Lưu ý : Dev với kinh nghiệm làm app android bằng không và hoàn thành ứng dụng qua việc tra cứu mạng (đừng hỏi vì sao app chuối :v)
 
-Hầu như ứng dụng có thể sử dụng tốt trong phiên bản mới nhất : v1.4-beta
+Hầu như ứng dụng có thể sử dụng tốt trong phiên bản mới nhất : v1.5-beta
